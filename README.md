@@ -1,16 +1,4 @@
-# flutter_responsive_ui_login
+Designed a Login UI design using Flutter.
+Here is the SS:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SS](https://user-images.githubusercontent.com/83208906/210490579-3f10d680-81ac-47b6-ae94-acefa3c854cc.png)
